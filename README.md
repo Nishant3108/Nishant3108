@@ -22,5 +22,10 @@
 [![](https://visitcount.itsvg.in/api?id=Nishant3108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Snake Light](https://github.com/Nishant3108/YOUR_REPOSITORY_NAME/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Nishant3108/YOUR_REPOSITORY_NAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nishant3108/Nishant3108/output/snake.svg" alt="Snake animation" />
+
+###
